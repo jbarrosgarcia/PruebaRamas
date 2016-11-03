@@ -36,6 +36,7 @@ public class Boletin5_7 {
                 break;
             default: JOptionPane.showConfirmDialog(null,"Opcion incorrecta");
         }
+        //merge done now make a new commit
     }
     
 }
